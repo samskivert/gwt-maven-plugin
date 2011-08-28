@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.codehaus.mojo</groupId>
+  <artifactId>gwt-maven-plugin</artifactId>
+  <versioning>
+    <latest>2.3.0-2-playn</latest>
+    <release>2.3.0-2-playn</release>
+    <versions>
+      <version>2.3.0-2-playn</version>
+    </versions>
+    <lastUpdated>20110828171834</lastUpdated>
+  </versioning>
+</metadata>
